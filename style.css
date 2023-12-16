@@ -19,6 +19,13 @@ a {
     line-height: 36px;
     font-weight: bold;
 }
+.heading__style2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
 
 .text {
     font-style: normal;
